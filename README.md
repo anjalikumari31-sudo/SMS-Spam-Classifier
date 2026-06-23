@@ -3,8 +3,7 @@ An **SMS Spam Classification System** built using **Machine Learning, Natural La
 
 ## Live Demo
 
-🔗 https://your-streamlit-app-url.streamlit.app/
-
+🔗 https://sms-spam-classifier-k4egrtua4xikiovwxxzzdf.streamlit.app/
 ---
 
 ## Features
