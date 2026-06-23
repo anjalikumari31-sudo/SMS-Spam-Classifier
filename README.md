@@ -95,11 +95,11 @@ Deployed the application using Streamlit Community Cloud.
 
 ### Home Page
 
-![Home Page](screenshots/home.png)
+![Home Page](home.png)
 
 ### Prediction Result
 
-![Prediction Result](screenshots/result.png)
+![Prediction Result](prediction.png)
 
 ---
 
