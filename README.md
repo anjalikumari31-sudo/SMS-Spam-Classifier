@@ -3,8 +3,6 @@ An **SMS Spam Classification System** built using **Machine Learning, Natural La
 
 ## Live Demo
 
-🔗## Live Demo
-
 [![Open App](https://img.shields.io/badge/SMS_Spam_Classifier-Live_Demo-red?logo=streamlit)](https://sms-spam-classifier-k4egrtua4xikiovwxxzzdf.streamlit.app/)
 ---
 
