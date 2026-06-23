@@ -75,16 +75,21 @@ Trained and evaluated multiple machine learning algorithms:
 - Random Forest
 - Decision Tree
 - Extra Trees Classifier
+- Ensemble Learning
 
 ### 6. Model Evaluation
 Performance was evaluated using:
 - Accuracy Score
 - Precision Score
 
+### 6. Model Selection
+- Best performing model: Multinomial Naive Bayes with accuracy score 0.970986	 and Precision score 1.000000
+
+
 ### 7. Prediction System
 The user enters an SMS message and the system predicts whether it is:
 - Spam 🚨
-- Not Spam ✅
+- Not Spam 
 
 ### 8. Streamlit Web App Deployment
 Deployed the application using Streamlit Community Cloud.
@@ -146,7 +151,15 @@ SMS-Spam-Classifier/
 
 ## Acknowledgement
 
-This project was developed by following and learning from the **CampusX SMS Spam Classifier tutorial**. I implemented the machine learning pipeline, customized the Streamlit user interface, deployed the application using **Streamlit Community Cloud**, and made enhancements to improve usability and user experience.
+This project was developed as part of my learning journey in **Machine Learning, Natural Language Processing (NLP), and Web Application Deployment**.
+This project helped me gain practical experience in:
+- Data Cleaning and Preprocessing
+- Natural Language Processing (NLP)
+- Feature Extraction using TF-IDF
+- Machine Learning Model Development
+- Streamlit Application Development
+- GitHub Version Control
+- Cloud Deployment
 
 ---
 
@@ -154,5 +167,4 @@ This project was developed by following and learning from the **CampusX SMS Spam
 
 **Anjali Kumari**
 
-GitHub: https://github.com/anjalikumari31-sudo
 
